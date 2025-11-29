@@ -94,7 +94,7 @@
     "uniqCompNum": 58,
     "versionPublish": "5.9.18",
     "publishEditFolder": false,
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
